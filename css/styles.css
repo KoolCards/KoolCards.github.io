@@ -1,0 +1,52 @@
+* {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: rgb(105, 105, 105);
+}
+
+.vertical-center {
+  min-height: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  font-weight: 600;
+  font-size: 40px;
+}
+
+.desc {
+  font-size: 22px;
+}
+
+.img-thumbnail {
+  max-width: 200px;
+  height: auto;
+}
+
+.contact {
+  margin-top: 5%;
+}
+
+.image {
+  width: 35px;
+}
+
+.gtri {
+  width: 100px;
+}
+
+@media (max-width: 960px) {
+  .col-lg-9 {
+      margin-top:20px;
+      text-align: center;
+  }
+}
+
+.link {
+  color: #2196F3;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
