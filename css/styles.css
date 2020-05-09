@@ -29,11 +29,11 @@
 }
 
 .image {
-  width: 35px;
+  width: 2rem;
 }
 
 .gtri {
-  width: 100px;
+  width: 6rem;
 }
 
 @media (max-width: 991px) {
