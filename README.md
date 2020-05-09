@@ -1,1 +1,1 @@
-**personal website at [ksatya.me](ksatya.me)**
+**personal website at [ksatya.me](http://ksatya.me)**
