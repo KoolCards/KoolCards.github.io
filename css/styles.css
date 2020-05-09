@@ -12,15 +12,15 @@
 
 .title {
   font-weight: 600;
-  font-size: 40px;
+  font-size: 2rem;
 }
 
 .desc {
-  font-size: 22px;
+  font-size: 1.7rem;
 }
 
 .img-thumbnail {
-  max-width: 200px;
+  max-width: 100%;
   height: auto;
 }
 
@@ -36,10 +36,14 @@
   width: 100px;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 991px) {
   .col-lg-9 {
       margin-top:20px;
       text-align: center;
+  }
+
+  .img-thumbnail {
+    max-width: 50%;
   }
 }
 
