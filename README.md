@@ -1,1 +1,1 @@
-**personal website at [ksatya.me](http://ksatya.me)**
+**personal website at [koolcards.github.io](koolcards.github.io)**
